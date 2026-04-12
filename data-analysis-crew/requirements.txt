@@ -1,0 +1,6 @@
+crewai>=1.14.0
+crewai-tools>=0.45.0
+litellm>=1.83.0
+pandas>=2.0.0
+numpy>=1.24.0
+google-generativeai>=0.8.0
