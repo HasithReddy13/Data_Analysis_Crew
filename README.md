@@ -1,12 +1,6 @@
 Technical Report
 Data Analysis Crew — Multi-Agent Agentic AI System
-Author: Hasith Reddy Rapolu
-Course: Big Data Architecture and Management
-University: Northeastern University
-Date: April 2026
-Platform: CrewAI with Ollama (LLaMA 3.1 8B)
-Domain: Data Analysis
- 
+
 
 1. Introduction
 1.1 Project Overview
